@@ -306,7 +306,7 @@ a dizisinin ikinci indeksinin adresi: 6487560
 a dizisinin ikinci indeks adresinde depolanan deger: 7
 ```
 
-Pointer (İşaretçi) Dizileri
+## Pointer (İşaretçi) Dizileri
 
 Pointer ifadeleri (işaretçiler) diziler gibi kullanılabilir. Örneğin:
 
