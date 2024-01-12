@@ -182,7 +182,7 @@ c ogrencisi
 ogrencisi
 ```
 
-string.h Kütüphanesinde Bazı Önemli Fonksiyonlar (C)
+## string.h Kütüphanesinde Bazı Önemli Fonksiyonlar (C)
 
 Bu kütüphaneyi kullanabilmek için kodlar arasında tanımlamamız gerekir.
 
