@@ -12,7 +12,7 @@ Başlık dosyaları “**.h**” uzantılı dosyalardır. C++ Programlama dilind
 1.  **Kullanıcı tanımlı başlık dosyaları**
 2.  **Önceden var olan başlık dosyaları**
 
-Kullanıcı Tanımlı Başlık Dosyaları
+## Kullanıcı Tanımlı Başlık Dosyaları
 
 Kullanıcı tanımlı başlık dosyaları, kullanıcı tarafından tanımlanmış ve yazılmış kodları içeren başlık dosyalarıdır. Bu türden bir başlık dosyası oluşturmak için önce kodlarınızı yazmalısınız ardından yazdığınız kodları “**.h**” uzantılı dosya şeklinde kaydetmelisiniz. Oluşturduğunuz başlık dosyasını kodlarınız arasında kullanmak için “ **#include “baslikAdi.h”** ” kod parçacığını kullanmalısınız. Örneğin:
 
@@ -51,7 +51,7 @@ Ekrana verilen çıktı:
 iki sayinin toplami = 15
 ```
 
-Önceden Var Olan Başlık Dosyaları
+## Önceden Var Olan Başlık Dosyaları
 
 Önceden var olan başlık dosyaları, programlama dilinin kendine ait başlık dosyalarıdır. Kodlar arasında kullanmak için “**#include <baslikAdi> veya #include <baslikAdi.h> (İki kod parçasının arasındaki farktan yukarıda bahsetmiştik.)**” kod parçacığını kullanırız. Örneğin:
 
@@ -60,7 +60,7 @@ iki sayinin toplami = 15
 #include <stdio.h> // C Programlama
 ```
 
-Birden Fazla Başlık Dosyası Kullanma
+## Birden Fazla Başlık Dosyası Kullanma
 
 Bir programda birden fazla farklı başlık dosyası kullanabilirsiniz fakat **aynı başlık dosyasını birden fazla kez kullanamazsınız**. Böyle bir durumda derleyici aynı başlık dosyasını birden fazla kez derler ve bu olay programda hatalara yol açar. Bu durumu önlemek için iki tane yöntem vardır.
 
